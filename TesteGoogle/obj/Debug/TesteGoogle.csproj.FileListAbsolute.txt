@@ -1,0 +1,88 @@
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\bin\Debug\TesteGoogle.dll
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\bin\Debug\TesteGoogle.pdb
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\bin\Debug\TesteGoogle.TesteGoogle.apk
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\bin\Debug\TesteGoogle.TesteGoogle-Signed.apk
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\obj\Debug\TesteGoogle.dll
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\obj\Debug\TesteGoogle.pdb
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\obj\Debug\android\bin\TesteGoogle.TesteGoogle.apk
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\obj\Debug\res\layout\main.xml
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\obj\Debug\res\values\strings.xml
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\obj\Debug\res\drawable\icon.png
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\obj\Debug\R.cs.flag
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\obj\Debug\uploadflags.txt
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\bin\Debug\TesteGoogle.dll.mdb
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\bin\Debug\Java.Interop.dll.mdb
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\bin\Debug\Mono.Android.dll.mdb
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\bin\Debug\mscorlib.dll.mdb
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\bin\Debug\System.ComponentModel.Composition.dll.mdb
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\bin\Debug\System.Core.dll.mdb
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\bin\Debug\System.dll.mdb
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\bin\Debug\System.Net.Http.dll.mdb
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\bin\Debug\System.Runtime.Serialization.dll.mdb
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\bin\Debug\System.ServiceModel.Internals.dll.mdb
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\bin\Debug\System.Xml.dll.mdb
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\bin\Debug\System.Xml.Linq.dll.mdb
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\obj\Debug\android\assets\Java.Interop.dll.mdb
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\obj\Debug\android\assets\Mono.Android.dll.mdb
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\obj\Debug\android\assets\mscorlib.dll.mdb
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\obj\Debug\android\assets\System.Core.dll.mdb
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\obj\Debug\android\assets\System.dll.mdb
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\obj\Debug\android\assets\System.Net.Http.dll.mdb
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\obj\Debug\android\assets\System.Xml.dll.mdb
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\obj\Debug\android\assets\TesteGoogle.dll.mdb
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\bin\Debug\Xamarin.Android.Support.v4.dll
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\bin\Debug\Xamarin.GooglePlayServices.Plus.dll
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\obj\Debug\TesteGoogle.csprojResolveAssemblyReference.cache
+c:\users\matheus.cristoni\documents\visual studio 2015\Projects\TesteGoogle\TesteGoogle\obj\Debug\TesteGoogle.dll.mdb
+F:\TesteGoogle\TesteGoogle\bin\Debug\TesteGoogle.dll
+F:\TesteGoogle\TesteGoogle\bin\Debug\TesteGoogle.pdb
+F:\TesteGoogle\TesteGoogle\bin\Debug\TesteGoogle.TesteGoogle.apk
+F:\TesteGoogle\TesteGoogle\bin\Debug\TesteGoogle.TesteGoogle-Signed.apk
+F:\TesteGoogle\TesteGoogle\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+F:\TesteGoogle\TesteGoogle\bin\Debug\Xamarin.Android.Support.v4.dll
+F:\TesteGoogle\TesteGoogle\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+F:\TesteGoogle\TesteGoogle\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+F:\TesteGoogle\TesteGoogle\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+F:\TesteGoogle\TesteGoogle\bin\Debug\Xamarin.GooglePlayServices.Plus.dll
+F:\TesteGoogle\TesteGoogle\obj\Debug\TesteGoogle.dll
+F:\TesteGoogle\TesteGoogle\obj\Debug\TesteGoogle.pdb
+F:\TesteGoogle\TesteGoogle\obj\Debug\android\bin\TesteGoogle.TesteGoogle.apk
+F:\TesteGoogle\TesteGoogle\obj\Debug\res\layout\main.xml
+F:\TesteGoogle\TesteGoogle\obj\Debug\res\values\strings.xml
+F:\TesteGoogle\TesteGoogle\obj\Debug\res\drawable\icon.png
+F:\TesteGoogle\TesteGoogle\obj\Debug\res\values\colors.xml
+F:\TesteGoogle\TesteGoogle\obj\Debug\R.cs.flag
+F:\TesteGoogle\TesteGoogle\obj\Debug\uploadflags.txt
+F:\TesteGoogle\TesteGoogle\bin\Debug\TesteGoogle.dll.mdb
+F:\TesteGoogle\TesteGoogle\obj\Debug\TesteGoogle.csprojResolveAssemblyReference.cache
+F:\TesteGoogle\TesteGoogle\bin\Debug\Java.Interop.dll.mdb
+F:\TesteGoogle\TesteGoogle\bin\Debug\Mono.Android.dll.mdb
+F:\TesteGoogle\TesteGoogle\bin\Debug\mscorlib.dll.mdb
+F:\TesteGoogle\TesteGoogle\bin\Debug\System.ComponentModel.Composition.dll.mdb
+F:\TesteGoogle\TesteGoogle\bin\Debug\System.Core.dll.mdb
+F:\TesteGoogle\TesteGoogle\bin\Debug\System.dll.mdb
+F:\TesteGoogle\TesteGoogle\bin\Debug\System.Net.Http.dll.mdb
+F:\TesteGoogle\TesteGoogle\bin\Debug\System.Runtime.Serialization.dll.mdb
+F:\TesteGoogle\TesteGoogle\bin\Debug\System.ServiceModel.Internals.dll.mdb
+F:\TesteGoogle\TesteGoogle\bin\Debug\System.Xml.dll.mdb
+F:\TesteGoogle\TesteGoogle\bin\Debug\System.Xml.Linq.dll.mdb
+F:\TesteGoogle\TesteGoogle\obj\Debug\android\assets\Java.Interop.dll.mdb
+F:\TesteGoogle\TesteGoogle\obj\Debug\android\assets\Mono.Android.dll.mdb
+F:\TesteGoogle\TesteGoogle\obj\Debug\android\assets\mscorlib.dll.mdb
+F:\TesteGoogle\TesteGoogle\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+F:\TesteGoogle\TesteGoogle\obj\Debug\android\assets\System.Core.dll.mdb
+F:\TesteGoogle\TesteGoogle\obj\Debug\android\assets\System.dll.mdb
+F:\TesteGoogle\TesteGoogle\obj\Debug\android\assets\System.Net.Http.dll.mdb
+F:\TesteGoogle\TesteGoogle\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+F:\TesteGoogle\TesteGoogle\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+F:\TesteGoogle\TesteGoogle\obj\Debug\android\assets\System.Xml.dll.mdb
+F:\TesteGoogle\TesteGoogle\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+F:\TesteGoogle\TesteGoogle\obj\Debug\android\assets\TesteGoogle.dll.mdb
+F:\TesteGoogle\TesteGoogle\obj\Debug\TesteGoogle.dll.mdb
+F:\TesteGoogle\TesteGoogle\bin\Debug\TesteGoogle.dll.mdb

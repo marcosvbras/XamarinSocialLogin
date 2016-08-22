@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:tools="http://schemas.android.com/tools"
+     android:layout_width="fill_parent"
+     android:layout_height="fill_parent"     
+     android:background="@color/blue_grey_900"
+     android:layout_below="@+id/imageView1" >
+
+  <LinearLayout 
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:background="@color/blue_grey_900"
+      android:orientation="vertical"
+      tools:context=".MainActivity">
+  
+      <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:paddingBottom="50dp"
+         android:paddingTop="50dp"
+         android:orientation="vertical"
+         android:background="@color/blue_grey_700">
+      
+         <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:text="Xamarin Social Sign-In"
+            android:gravity="center"
+            android:textColor="@android:color/white"
+            android:textSize="36sp" />
+
+         <TextView
+             android:id="@+id/textViewStatus"
+             android:layout_width="wrap_content"
+             android:layout_gravity="center"
+             android:layout_height="wrap_content"
+             android:text=""
+             android:paddingBottom="20dp"
+             android:textSize="20sp"
+             android:textColor="@android:color/white" />   
+    
+          <com.google.android.gms.common.SignInButton
+            android:id="@+id/sign_in_button"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:visibility="visible" />
+      </LinearLayout>
+  
+        <LinearLayout
+            android:id="@+id/linearInformations"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:paddingTop="30dp"
+            android:paddingBottom="50dp"
+            android:background="@color/blue_grey_900">
+            <ImageView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:id="@+id/imageProfile"
+              android:scaleType="fitCenter"/>
+            <TextView
+              android:id="@+id/textViewName"
+              android:layout_width="match_parent"
+              android:layout_marginLeft="50dp"
+              android:layout_marginRight="50dp"
+              android:layout_height="wrap_content"
+              android:layout_marginBottom="10dp"
+              android:text=""
+              android:gravity="center"
+              android:textColor="@android:color/white"
+              android:textSize="17sp" />
+          <TextView
+              android:id="@+id/textViewEmail"
+              android:layout_width="match_parent"
+              android:layout_marginLeft="50dp"
+              android:layout_marginRight="50dp"
+              android:layout_height="wrap_content"
+              android:layout_marginBottom="10dp"
+              android:text=""
+              android:gravity="center"
+              android:textColor="@android:color/white"
+              android:textSize="17sp" />
+          <TextView
+              android:id="@+id/textViewGender"
+              android:layout_width="match_parent"
+              android:layout_marginLeft="50dp"
+              android:layout_marginRight="50dp"
+              android:layout_height="wrap_content"
+              android:layout_marginBottom="10dp"
+              android:text=""
+              android:gravity="center"
+              android:textColor="@android:color/white"
+              android:textSize="17sp" />
+          <TextView
+              android:id="@+id/textViewLanguage"
+              android:layout_width="match_parent"
+              android:layout_marginLeft="50dp"
+              android:layout_marginRight="50dp"
+              android:layout_height="wrap_content"
+              android:layout_marginBottom="10dp"
+              android:text=""
+              android:gravity="center"
+              android:textColor="@android:color/white"
+              android:textSize="17sp" />
+          <TextView
+              android:id="@+id/textViewNickName"
+              android:layout_width="match_parent"
+              android:layout_marginLeft="50dp"
+              android:layout_marginRight="50dp"
+              android:layout_height="wrap_content"
+              android:layout_marginBottom="10dp"
+              android:text=""
+              android:gravity="center"
+              android:textColor="@android:color/white"
+              android:textSize="17sp" />
+          <TextView
+              android:id="@+id/textViewTagLine"
+              android:layout_width="match_parent"
+              android:layout_marginLeft="50dp"
+              android:layout_marginRight="50dp"
+              android:layout_height="wrap_content"
+              android:layout_marginBottom="10dp"
+              android:text=""
+              android:gravity="center"
+              android:textColor="@android:color/white"
+              android:textSize="17sp" />
+          <TextView
+              android:id="@+id/textViewAboutMe"
+              android:layout_width="match_parent"
+              android:layout_marginLeft="50dp"
+              android:layout_marginRight="50dp"
+              android:layout_height="wrap_content"
+              android:layout_marginBottom="10dp"
+              android:text=""
+              android:gravity="center"
+              android:textColor="@android:color/white"
+              android:textSize="17sp" />
+          <TextView
+              android:id="@+id/textViewBirthday"
+              android:layout_width="match_parent"
+              android:layout_marginLeft="50dp"
+              android:layout_marginRight="50dp"
+              android:layout_height="wrap_content"
+              android:layout_marginBottom="10dp"
+              android:text=""
+              android:gravity="center"
+              android:textColor="@android:color/white"
+              android:textSize="17sp" />
+          <TextView
+              android:id="@+id/textViewCurrentLocation"
+              android:layout_width="match_parent"
+              android:layout_marginLeft="50dp"
+              android:layout_marginRight="50dp"
+              android:layout_height="wrap_content"
+              android:layout_marginBottom="10dp"
+              android:text=""
+              android:gravity="center"
+              android:textColor="@android:color/white"
+              android:textSize="17sp" />
+          <TextView
+              android:id="@+id/textViewId"
+              android:layout_width="match_parent"
+              android:layout_marginLeft="50dp"
+              android:layout_marginRight="50dp"
+              android:layout_height="wrap_content"
+              android:layout_marginBottom="10dp"
+              android:text=""
+              android:gravity="center"
+              android:textColor="@android:color/white"
+              android:textSize="17sp" />
+          <TextView
+              android:id="@+id/textViewProfileUrl"
+              android:layout_width="match_parent"
+              android:layout_marginLeft="50dp"
+              android:layout_marginRight="50dp"
+              android:layout_height="wrap_content"
+              android:layout_marginBottom="10dp"
+              android:text=""
+              android:gravity="center"
+              android:textColor="@android:color/white"
+              android:textSize="17sp" />
+          <Button
+              android:id="@+id/buttonSignOut"
+              android:layout_width="match_parent"
+              android:layout_marginLeft="50dp"
+              android:layout_marginRight="50dp"
+              android:layout_height="wrap_content"
+              android:text="Sign Out"
+              android:textColor="@android:color/white"
+              android:background="@color/blue_grey_500" />
+        </LinearLayout>
+  </LinearLayout>
+</ScrollView>
